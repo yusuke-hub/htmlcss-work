@@ -66,7 +66,7 @@ main {
   .step-box {
     width:90%;
     float:none;
-    margin:0 auto 20px;
+    margin:0 auto 20px  ;
   }
   .step-box:last-child{
     margin-right: 21px;
